@@ -1,0 +1,159 @@
+.subbab{
+	position: absolute;
+	right: 0%;
+	font-size: 80%;
+	top: 9%;
+	color: black;
+
+ }
+.aboutjogja1
+{
+	position:absolute;
+	top: 30%;
+	left: 24%;
+
+}
+
+.aboutjogja2
+{
+	position:absolute;
+	top: 30%;
+	left: 24%;
+
+}
+
+ .subbab h1 li {
+	list-style: none ;
+	display: inline-block;
+	margin: 0 20px ;
+	position: relative;
+ }
+ .subbab h1 li a {
+	color: rgb(0, 0, 0);
+	text-transform: uppercase;
+ }
+ .title{
+	position: absolute;
+	top: 8%;
+	left: 40%;
+	transform: translate(-50%,-50);
+	font-size: 35px;
+ }
+ .title h1{
+	color:rgb(59, 179, 179)
+ }
+ .button{
+	position: absolute;
+	top: 25%;
+	left: 33%;
+	transform:translate(-50%,-50) ;
+ }
+
+ .pertama{
+	margin-right:10% ;
+	margin-top: 45%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+ }
+
+ .pertama2{
+	margin-right:10% ;
+	margin-top: 45%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+ }
+
+ .btn{
+	border: 1px solid rgb(0, 0, 0) ;
+	padding: 1px 1px;
+	color: rgb(0, 0, 0);
+	transition: 0.5 ease;
+	font-size: 25px;
+	text-decoration: none;
+ }
+ 
+ .title{
+	position: absolute;
+	top: 3%;
+	left: 10%;
+	transform: translate(-50%,-50);
+	font-size: 35px;
+ }
+ .banner{
+	position: absolute;
+	top: -1%;
+	left: -1%;
+	right: -5%;
+ }
+
+
+ .alunalunselatan{
+	position:absolute;
+	top: 130%;
+	left: 24%;
+}
+ 
+.pertama3{
+	margin-right:10% ;
+	margin-top: 35%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+
+}
+
+.malioboro{
+	position:absolute;
+	top: 245%;
+	left: 24%;
+}
+ 
+.pertama4{
+	margin-right:10% ;
+	margin-top: 35%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+
+}
+
+
+.parangtritis{
+	position:absolute;
+	top: 355%;
+	left: 24%;
+}
+ 
+.pertama5{
+	margin-right:10% ;
+	margin-top: 35%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+
+}
+
+.depok{
+	position:absolute;
+	top: 460%;
+	left: 24%;
+}
+ 
+.pertama6{
+	margin-right:10% ;
+	margin-top: 35%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+
+}
+
+.prambanan{
+	position:absolute;
+	top: 585%;
+	left: 24%;
+}
+ 
+.pertama7{
+	margin-right:10% ;
+	margin-top: 35%;
+	margin-left:10% ; 
+	margin-bottom: 10px ;
+
+}

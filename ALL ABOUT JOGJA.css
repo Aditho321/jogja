@@ -1,0 +1,45 @@
+
+
+ .title{
+	position: absolute;
+	top: 3%;
+	left: 10%;
+	transform: translate(-50%,-50);
+	font-size: 35px;
+ }
+ .banner{
+	position: absolute;
+	top: -1%;
+	left: -1%;
+	right: -5%;
+	
+ }
+ .title h1{
+	color:rgb(59, 179, 179)
+ }
+  .background{
+	color: wheat;
+
+  }
+ .logo{
+	position: absolute;
+	top: 5%;
+	left: 13%;
+	transform:translate(-50%,-50) ;
+ }
+ .subbab{
+	position: absolute;
+	right: -8%;
+	font-size: 80%;
+	top: 5%;
+	color: black;
+
+ }
+ .background{
+	margin-top: 10%;
+	size: 50%;
+ }
+ .diskripsi{
+	font-size: 10px;
+
+ }
